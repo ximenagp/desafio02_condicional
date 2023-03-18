@@ -1,0 +1,64 @@
+#contenedor{
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-left: 2%;
+}
+h4{
+    text-align: center;
+    margin-top: 2%;
+}
+h3{
+    text-align: center;
+    align-content: center;
+    margin-top: 2px;
+}
+h6{
+    text-align: center;
+}
+.col1{
+    align-items: center;
+    text-align: center;
+    row-gap: 10px;
+    width: 50%;
+}
+#st1{
+    width: 150px;
+}
+#st2{
+    width: 150px;
+}
+#st3{
+    width: 150px;
+}
+#caja{
+    margin-top: 10%;
+}
+.stiker{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 5px;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+section {
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+    margin-right:15%;
+}
+.parrafo{
+    margin-top: 5%;
+}
+.botones{
+    margin-top: 5%;
+    display: inline;
+    flex-direction: row;
+}
+.boton{
+    align-content: center;
+    margin-top: 5%;
+}
+#rowselect{
+    margin-top: 40px;
+}
